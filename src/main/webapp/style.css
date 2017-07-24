@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 80%;
+   background-color: #e4f1fc;
+}
+
+.button {
+   display: inline;
+   color: #fff;
+   background-color: #f2791d;
+   padding: 8px;
+   margin: auto;
+   border-radius: 8px;
+   -moz-border-radius: 8px;
+   -webkit-border-radius: 8px;
+   box-shadow: none;
+   border: none;
+}
+
+.button:hover {
+   background-color: #ffb15e;
+}
+.button a, a:visited, a:hover, a:active {
+   color: #fff;
+   text-decoration: none;
+}
+
+select{
+	display: inline;
+   color: #400040;
+ 	background-color: #fcddc7;
+   padding: 8px;
+   margin: auto;
+   border-radius: 8px;
+    box-shadow: none;
+   border: none;
+
+}
+
+input{
+	display: inline;
+   padding: 8px;
+   margin: auto;
+   border-radius: 8px;
+  
+}
+
